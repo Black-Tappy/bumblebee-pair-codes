@@ -12,8 +12,17 @@
       align-items: center;
       height: 100vh;
       margin: 0;
-      background-color: black;
+      overflow: hidden; /* Hide overflow to prevent scrollbars */
       font-family: Arial, sans-serif;
+      background-size: cover;
+      animation: changeBackground 15s infinite;
+    }
+
+    @keyframes changeBackground {
+      10%, 100% { background-image: url('https://wallpapercave.com/wp/wp3764268.jpg'); }
+      25% { background-image: url('https://wallpapercave.com/uwp/uwp4398200.webp'); }
+      50% { background-image: url('https://wallpapercave.com/wp/KEwaPYO.jpg'); }
+      75% { background-image: url('https://wallpapercave.com/uwp/uwp4403209.jpeg'); }
     }
 
     .container {
@@ -143,9 +152,9 @@
         <div id="text">
           <i class="fa fa-user"></i>
           <p>
-            <h3 class="centered-text">Redmi-XMD PAIRING CODE</h3>
+            <h3 class="centered-text">𝘽𝙪𝙢𝙗𝙡𝙚𝙗𝙚𝙚-𝙓𝙈𝘿 𝙋𝘼𝙄𝙍𝙄𝙉𝙂 𝘾𝙊𝘿𝙀</h3>
             <br>
-            <h6>Toxic Tech</h6>
+            <h6>𝘽𝙪𝙢𝙗𝙡𝙚𝙗𝙚𝙚-𝙓𝙈𝘿 𝙏𝙀𝘾𝙃</h6>
             <h6>Enter Your Number with Country Code.</h6>
             <div class="input-container">
               <input placeholder="254759000xxx" type="number" id="number" placeholder="Enter your Phone Pumber with Country Code" name="">
