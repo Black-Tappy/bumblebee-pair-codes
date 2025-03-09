@@ -63,7 +63,7 @@ ______________________________
 ╔════◇
 『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
 ║❍ 𝐎𝐰𝐧𝐞𝐫: _https://wa.me/254759000340_
-║❍ 𝐑𝐞𝐩𝐨: _https://github.com/Black-Tappy/Redmi-XMD_
+║❍ 𝐑𝐞𝐩𝐨: _https://github.com/Black-Tappy/Bumblebee-XMD
 ║❍ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: _https://chat.whatsapp.com/JLVDDZLpcsk2byRMDWf0IR_
 ║❍ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029VasHgfG4tRrwjAUyTs10_
 ║❍ 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦: _https://www.instagram.com/bright_leizer_?igsh=Y2JmcnE1ajNjZXM=
